@@ -58,21 +58,26 @@ Performance Metrics
 
 Random Forest Regression
 Mean Squared Error (MSE): 1.44
+
 R-squared score: 0.95
 
 Decision Tree Regression
 Mean Squared Error (MSE): 3.40
+
 R-squared score: 0.89
 
 Lasso Regression
 Mean Squared Error (MSE): 2.93
+
 R-squared score: 0.91
 
 Ridge Regression
 Mean Squared Error (MSE): 2.91
+
 R-squared score: 0.91
 
 Linear Regression
 Mean Squared Error (MSE): 2.91
+
 R-squared score: 0.91
 
