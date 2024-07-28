@@ -54,40 +54,25 @@ Consider creating more features or transforming existing ones for better model p
 Hyperparameter Tuning:
 Increase the number of trials in Optuna for potentially better hyperparameter combinations.
 
-Linear Regression:
+Performance Metrics
 
-Mean Squared Error (MSE):
-R-squared score (R2):
-Decision Tree:
+Random Forest Regression
+Mean Squared Error (MSE): 1.44
+R-squared score: 0.95
 
-Mean Squared Error (MSE):
-R-squared score (R2):
-Random Forest:
+Decision Tree Regression
+Mean Squared Error (MSE): 3.40
+R-squared score: 0.89
 
-Mean Squared Error (MSE):
-R-squared score (R2):
-Gradient Boosting:
+Lasso Regression
+Mean Squared Error (MSE): 2.93
+R-squared score: 0.91
 
-Mean Squared Error (MSE):
-R-squared score (R2):
-Support Vector Machine:
+Ridge Regression
+Mean Squared Error (MSE): 2.91
+R-squared score: 0.91
 
-Mean Squared Error (MSE):
-R-squared score (R2):
-Neural Network:
+Linear Regression
+Mean Squared Error (MSE): 2.91
+R-squared score: 0.91
 
-Mean Squared Error (MSE):
-R-squared score (R2):
-XGBoost:
-
-Mean Squared Error (MSE):
-R-squared score (R2):
-CatBoost:
-
-Mean Squared Error (MSE):
-R-squared score (R2):
-The model with the best performance in terms of the lowest MSE and the highest R-squared score is:
-
-Model Name:
-Mean Squared Error (MSE):
-R-squared score (R2):
